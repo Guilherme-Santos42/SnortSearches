@@ -2,7 +2,7 @@
 here i summarize my proccess of learning Snort, Snort is a free IDS/IPS.
 
 
-Installation on linux(ubuntu): 
+Installation on linux(ubuntu): <br>
 <img width="669" height="344" alt="image" src="https://github.com/user-attachments/assets/01c702ad-fd50-415a-994f-311f54276b55" /><br>
 
 sudo apt install snort<br>

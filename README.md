@@ -17,4 +17,6 @@ the information appears on the prompt:<br>
 <img width="709" height="457" alt="image" src="https://github.com/user-attachments/assets/40873bbf-8d63-4608-bc74-871b536e7aac" /><br>
 <br>
 
+We can create rules on cd /etc/snort/rules/ <br>
+
 We will continue the research!
